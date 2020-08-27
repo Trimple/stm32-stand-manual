@@ -1,6 +1,6 @@
 [book]
 authors = ["Trimple"]
-language = "en"
+language = "ru"
 multilingual = false
 src = "src"
 title = "Лабораторный практикум STM32G4"
