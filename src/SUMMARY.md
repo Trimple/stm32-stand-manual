@@ -1,8 +1,8 @@
 # Summary
 
 - [Введение (-)](./introduction.md)
-  - [Как читать этот документ (-!)](./introduction/how_to_read.md)
-  - [Источники и полезные ссылки (-!)](./introduction/links.md)
+  - [Как читать этот документ (v)](./introduction/how_to_read.md)
+  - [Источники и полезные ссылки (v)](./introduction/links.md)
 - [Настройка инструментов разработки (!)](./dev-tools.md)
   - [Установка CubeIDE (!)](./dev-tools/cudeIDE_install.md)
   - [Создание нового пустого проекта в CubeIDE (!)](./dev-tools/cudeIDE_new_project.md)
