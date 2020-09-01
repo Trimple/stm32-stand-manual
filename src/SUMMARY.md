@@ -9,9 +9,9 @@
   - [Загрузка прошивки в микроконтроллер и основы отладки в CubeIDE (!)](./dev-tools/cudeIDE_debug.md)
   - [Установка и настройка CubeMonitor ( )]()<!--(./dev-tools/cudeMonitor_install.md)-->
   - [Основы отладки в CubeMonitor ( )]()<!--(./dev-tools/cudeMonitor_debug.md)-->
-- [Теоретический материал (!)](./theory.md)
-  - [Системы счисления (!)](./theory/notations.md)
-  - [Логические операции в Си (!)](./theory/C_logic_operations.md)
+- [Теоретический материал (-!)](./theory.md)
+  - [Системы счисления (-!)](./theory/notations.md)
+  - [Логические операции в Си (-!)](./theory/C_logic_operations.md)
   - [Основы макросов в Си (!)](./theory/C_macro.md)
   - [Описание лабораторного стенда ( )]()<!--(./theory/stand_design.md)-->
 - [Лабораторные работы ( )]()<!--(./manual.md)-->
