@@ -7,8 +7,7 @@
   - [Установка и настройка CubeIDE (!)](./dev-tools/cudeIDE_install.md)
   - [Создание нового пустого проекта в CubeIDE (!)](./dev-tools/cudeIDE_new_project.md)
   - [Загрузка прошивки и основы отладки в CubeIDE (!)](./dev-tools/cudeIDE_debug.md)
-  - [Установка и настройка CubeMonitor ( )]()<!--(./dev-tools/cudeMonitor_install.md)-->
-  - [Основы отладки в CubeMonitor ( )]()<!--(./dev-tools/cudeMonitor_debug.md)-->
+  - [Использование CubeMonitor ( )]()<!--(./dev-tools/cudeMonitor_install.md)-->
 - [Теоретический материал (-!)](./theory.md)
   - [Системы счисления (-!)](./theory/notations.md)
   - [Логические операции в Си (-!)](./theory/C_logic_operations.md)
