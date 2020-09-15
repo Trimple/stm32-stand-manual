@@ -1,6 +1,7 @@
 # Лабораторное пособие для stm32-стенда (БГУИР)
 
 ``` С
+  int var = 0;
   printf("random example %i", var);
 ```
 
